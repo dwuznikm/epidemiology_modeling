@@ -1,0 +1,9 @@
+beta,1.3000000000000001e-05
+sigma,0.14
+gamma,0.05
+alpha,0.02
+v_rate,0.004
+v_success,0.9
+alpha_v,0.005
+alpha_v_failed,0.001
+delta,0.03
